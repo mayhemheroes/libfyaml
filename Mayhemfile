@@ -1,0 +1,5 @@
+project: libfyaml
+target: fy-tool
+
+cmds:
+  - cmd: /install/bin/fy-tool --parse-dump @@
